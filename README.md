@@ -11,7 +11,7 @@ This project demonstrates the ease of use that MobX brings to manage state acros
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+This app requires [Node.js](https://nodejs.org/) v10+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
